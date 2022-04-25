@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Telos.net Load Balancer",
+    "http": "https://mainnet.telos.net/evm",
+    "ws": "wss://mainnet.telos.net/evm",
+    "description": "Geo-DNS based load balancer"
+  },
+  {
+    "name": "Telos.net US 1",
+    "http": "https://rpc1.us.telos.net/evm",
+    "ws": "",
+    "description": "US cluster"
+  },
+  {
+    "name": "Telos.net EU 1",
+    "http": "https://rpc1.eu.telos.net/evm",
+    "ws": "",
+    "description": "Europe Cluster"
+  },
+  {
+    "name": "Telos.net US 2",
+    "http": "https://rpc2.us.telos.net/evm",
+    "ws": "wss://rpc2.us.telos.net/evm",
+    "description": "US docker based"
+  },
+  {
+    "name": "Kainos Block Producers US 1",
+    "http": "https://api.kainosbp.com/evm",
+    "ws": "",
+    "description": "US Bare Metal Cluster"
+  },
+  {
+    "name": "Telos.net Asia 1",
+    "http": "https://rpc1.asia.telos.net/evm",
+    "ws": "wss://rpc1.asia.telos.net/evm",
+    "description": "Japan Bare Metal Cluster"
+  },
+  {
+    "name": "Telos.net EU 2",
+    "http": "https://rpc2.eu.telos.net/evm",
+    "ws": "wss://rpc2.eu.telos.net/evm",
+    "description": "EU docker based"
+  },
+  {
+    "name": "TelosKorea.com ASIA 1",
+    "http": "https://evm.teloskorea.com/evm",
+    "ws": "wss://ws-evm.teloskorea.com/evm",
+    "description": "TelosKorea ASIA Bare Metal Cluster"
+  },
+  {
+    "name": "TelosKorea.com ASIA 2",
+    "http": "https://rpc2.teloskorea.com/evm",
+    "ws": "wss://ws-rpc2.teloskorea.com/evm",
+    "description": "TelosKorea ASIA Bare Metal Cluster"
+  },
+  {
+    "name": "TelosKorea.com ASIA 3",
+    "http": "https://rpc3.teloskorea.com/evm",
+    "ws": "wss://ws-rpc3.teloskorea.com/evm",
+    "description": "TelosKorea ASIA Bare Metal Cluster"
+  },  
+  {
+    "name": "Telos Unlimited US 1",
+    "http": "https://rpc01.us.telosunlimited.io/evm",
+    "ws": "wss://rpc01.us.telosunlimited.io/evm",
+    "description": "Telos Unlimited US Bare Metal Cluster"
+  },
+  {
+    "name": "Telos Unlimited US 2",
+    "http": "https://rpc02.us.telosunlimited.io/evm",
+    "ws": "wss://rpc02.us.telosunlimited.io/evm",
+    "description": "Telos Unlimited docker based"
+  },
+   {
+    "name": "Telos Arabia EU Cluster",
+    "http": "https://rpc.telosarabia.net/evm",
+    "ws": "wss://rpc.telosarabia.net/evm",
+    "description": "Telos Arabia Europe Cluster"
+  }
+]
